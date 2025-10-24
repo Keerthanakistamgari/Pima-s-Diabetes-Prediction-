@@ -81,7 +81,7 @@ Deploy using Streamlitvia Ngrok
 👩‍💻 Author
 
 Keerthana Kistamgari
-🎓 B.Sc. in Computer Science & Artificial Intelligence | Layla Academy
+🎓Master's in DataScience |Loyola Academy
 📍 Hyderabad, India
 💼 Aspiring Data Scientist & AI Engineer
 
